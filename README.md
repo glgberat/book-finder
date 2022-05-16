@@ -30,7 +30,7 @@ Run the following commands at the root of your project if you would like to use 
 
 
 ## Screenshots
-![professional-portfolio-react](.client/src/assets/screenshot1.png)
+![book-finder](./client/src/assets/screenshot1.png)
 
 
 
